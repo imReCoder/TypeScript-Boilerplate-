@@ -1,0 +1,73 @@
+2023-01-14 01:01:31 error: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (D:\SpotChatra\spotchatbackendnew\node_modules\express\lib\router\index.js:462:11)
+    at new IndexRoute (D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\index.route.ts:21:17)
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2023-01-14 15:56:08 error: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (D:\SpotChatra\spotchatbackendnew\node_modules\express\lib\router\index.js:462:11)
+    at new IndexRoute (D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\index.route.ts:21:17)
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2023-01-14 15:57:34 error: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (D:\SpotChatra\spotchatbackendnew\node_modules\express\lib\router\index.js:462:11)
+    at new IndexRoute (D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\index.route.ts:21:17)
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2023-01-14 15:57:41 error: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (D:\SpotChatra\spotchatbackendnew\node_modules\express\lib\router\index.js:462:11)
+    at new IndexRoute (D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\index.route.ts:21:17)
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2023-01-14 16:00:30 error: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (D:\SpotChatra\spotchatbackendnew\node_modules\express\lib\router\index.js:462:11)
+    at new IndexRoute (D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\index.route.ts:21:17)
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2023-01-14 16:00:41 error: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (D:\SpotChatra\spotchatbackendnew\node_modules\express\lib\router\index.js:462:11)
+    at new IndexRoute (D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\index.route.ts:21:17)
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:9:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+2023-01-14 16:09:56 error: UnhandledRejection: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017

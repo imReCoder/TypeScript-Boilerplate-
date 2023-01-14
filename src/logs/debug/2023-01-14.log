@@ -1,0 +1,125 @@
+2023-01-14 16:08:44 info: =================================
+2023-01-14 16:08:44 info: ======= ENV: development =======
+2023-01-14 16:08:44 info: 🚀 App listening on the port 3000
+2023-01-14 16:08:44 info: =================================
+2023-01-14 16:08:53 error: UncaughtException: TypeError: Router.use() requires a middleware function
+2023-01-14 16:09:02 info: =================================
+2023-01-14 16:09:02 info: ======= ENV: development =======
+2023-01-14 16:09:02 info: 🚀 App listening on the port 3000
+2023-01-14 16:09:02 info: =================================
+2023-01-14 16:09:02 info: SIGINT received. Shutting down gracefully
+2023-01-14 16:11:24 info: =================================
+2023-01-14 16:11:24 info: ======= ENV: development =======
+2023-01-14 16:11:24 info: 🚀 App listening on the port 3000
+2023-01-14 16:11:24 info: =================================
+2023-01-14 16:11:54 error: UnhandledRejection: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+2023-01-14 16:14:10 info: =================================
+2023-01-14 16:14:10 info: ======= ENV: development =======
+2023-01-14 16:14:11 info: 🚀 App listening on the port 3000
+2023-01-14 16:14:11 info: =================================
+2023-01-14 16:14:18 info: =================================
+2023-01-14 16:14:18 info: ======= ENV: development =======
+2023-01-14 16:14:18 info: 🚀 App listening on the port 3000
+2023-01-14 16:14:18 info: =================================
+2023-01-14 16:14:48 error: UnhandledRejection: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+2023-01-14 16:16:20 info: =================================
+2023-01-14 16:16:20 info: ======= ENV: development =======
+2023-01-14 16:16:20 info: 🚀 App listening on the port 3000
+2023-01-14 16:16:20 info: =================================
+2023-01-14 16:16:50 error: UnhandledRejection: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+2023-01-14 16:17:28 info: =================================
+2023-01-14 16:17:28 info: ======= ENV: development =======
+2023-01-14 16:17:28 info: 🚀 App listening on the port 3000
+2023-01-14 16:17:28 info: =================================
+2023-01-14 16:17:42 info: =================================
+2023-01-14 16:17:42 info: ======= ENV: development =======
+2023-01-14 16:17:42 info: 🚀 App listening on the port 3000
+2023-01-14 16:17:42 info: =================================
+2023-01-14 16:18:12 error: UnhandledRejection: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+2023-01-14 16:18:39 info: =================================
+2023-01-14 16:18:39 info: ======= ENV: development =======
+2023-01-14 16:18:39 info: 🚀 App listening on the port 3000
+2023-01-14 16:18:39 info: =================================
+2023-01-14 16:18:45 info: =================================
+2023-01-14 16:18:45 info: ======= ENV: development =======
+2023-01-14 16:18:45 info: 🚀 App listening on the port 3000
+2023-01-14 16:18:45 info: =================================
+2023-01-14 16:19:15 error: UnhandledRejection: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+2023-01-14 16:19:30 info: =================================
+2023-01-14 16:19:30 info: ======= ENV: development =======
+2023-01-14 16:19:30 info: 🚀 App listening on the port 3000
+2023-01-14 16:19:30 info: =================================
+2023-01-14 16:19:34 info: =================================
+2023-01-14 16:19:34 info: ======= ENV: development =======
+2023-01-14 16:19:34 info: 🚀 App listening on the port 3000
+2023-01-14 16:19:34 info: =================================
+2023-01-14 16:20:04 error: UnhandledRejection: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+2023-01-14 16:20:58 info: =================================
+2023-01-14 16:20:58 info: ======= ENV: development =======
+2023-01-14 16:20:58 info: 🚀 App listening on the port 3000
+2023-01-14 16:20:58 info: =================================
+2023-01-14 16:21:28 error: UnhandledRejection: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+2023-01-14 16:22:20 info: =================================
+2023-01-14 16:22:20 info: ======= ENV: development =======
+2023-01-14 16:22:20 info: 🚀 App listening on the port 3000
+2023-01-14 16:22:20 info: =================================
+2023-01-14 16:22:50 error: UnhandledRejection: ReferenceError: disconnected is not defined
+2023-01-14 16:24:59 info: =================================
+2023-01-14 16:24:59 info: ======= ENV: development =======
+2023-01-14 16:24:59 info: 🚀 App listening on the port 3000
+2023-01-14 16:24:59 info: =================================
+2023-01-14 16:25:15 info: =================================
+2023-01-14 16:25:15 info: ======= ENV: development =======
+2023-01-14 16:25:15 info: 🚀 App listening on the port 3000
+2023-01-14 16:25:15 info: =================================
+2023-01-14 16:25:45 error: UnhandledRejection: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+2023-01-14 16:26:37 info: =================================
+2023-01-14 16:26:37 info: ======= ENV: development =======
+2023-01-14 16:26:37 info: 🚀 App listening on the port 3000
+2023-01-14 16:26:37 info: =================================
+2023-01-14 16:26:50 info: =================================
+2023-01-14 16:26:50 info: ======= ENV: development =======
+2023-01-14 16:26:50 info: 🚀 App listening on the port 3000
+2023-01-14 16:26:50 info: =================================
+2023-01-14 16:27:20 error: UnhandledRejection: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+2023-01-14 16:27:27 info: =================================
+2023-01-14 16:27:27 info: ======= ENV: development =======
+2023-01-14 16:27:27 info: 🚀 App listening on the port 3000
+2023-01-14 16:27:27 info: =================================
+2023-01-14 16:27:45 error: UncaughtException: TypeError: this.connectToDatabase is not a function
+2023-01-14 16:27:54 info: =================================
+2023-01-14 16:27:54 info: ======= ENV: development =======
+2023-01-14 16:27:54 info: 🚀 App listening on the port 3000
+2023-01-14 16:27:54 info: =================================
+2023-01-14 16:28:24 error: UnhandledRejection: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+2023-01-14 16:29:37 info: =================================
+2023-01-14 16:29:37 info: ======= ENV: development =======
+2023-01-14 16:29:37 info: 🚀 App listening on the port 3000
+2023-01-14 16:29:37 info: =================================
+2023-01-14 16:29:37 error: UnhandledRejection: MongoParseError: options usecreateindex, usefindandmodify, reconnecttries, reconnectinterval, poolsize, buffermaxentries are not supported
+2023-01-14 16:30:23 info: =================================
+2023-01-14 16:30:23 info: ======= ENV: development =======
+2023-01-14 16:30:23 info: 🚀 App listening on the port 3000
+2023-01-14 16:30:23 info: =================================
+2023-01-14 16:30:23 error: UnhandledRejection: MongoParseError: options usefndandmodify, reconnectinterval are not supported
+2023-01-14 16:30:35 info: =================================
+2023-01-14 16:30:35 info: ======= ENV: development =======
+2023-01-14 16:30:35 info: 🚀 App listening on the port 3000
+2023-01-14 16:30:35 info: =================================
+2023-01-14 16:30:35 error: UnhandledRejection: MongoParseError: option usefndandmodify is not supported
+2023-01-14 16:30:43 info: =================================
+2023-01-14 16:30:43 info: ======= ENV: development =======
+2023-01-14 16:30:43 info: 🚀 App listening on the port 3000
+2023-01-14 16:30:43 info: =================================
+2023-01-14 16:30:50 info: =================================
+2023-01-14 16:30:50 info: ======= ENV: development =======
+2023-01-14 16:30:50 info: 🚀 App listening on the port 3000
+2023-01-14 16:30:50 info: =================================
+2023-01-14 16:31:08 info: =================================
+2023-01-14 16:31:08 info: ======= ENV: development =======
+2023-01-14 16:31:08 info: 🚀 App listening on the port 3000
+2023-01-14 16:31:08 info: =================================
+2023-01-14 16:31:41 info: =================================
+2023-01-14 16:31:41 info: ======= ENV: development =======
+2023-01-14 16:31:41 info: 🚀 App listening on the port 3000
+2023-01-14 16:31:41 info: =================================

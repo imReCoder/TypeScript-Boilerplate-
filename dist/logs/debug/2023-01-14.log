@@ -1,0 +1,10 @@
+2023-01-14 16:08:28 info: =================================
+2023-01-14 16:08:28 info: ======= ENV: development =======
+2023-01-14 16:08:28 info: 🚀 App listening on the port 3000
+2023-01-14 16:08:28 info: =================================
+2023-01-14 16:09:26 info: =================================
+2023-01-14 16:09:26 info: ======= ENV: development =======
+2023-01-14 16:09:26 info: 🚀 App listening on the port 3000
+2023-01-14 16:09:26 info: =================================
+2023-01-14 16:09:56 error: UnhandledRejection: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+2023-01-14 16:10:35 info: SIGINT received. Shutting down gracefully

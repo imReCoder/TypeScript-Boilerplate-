@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\SpotChatra\\spotchatbackendnew\\dist\\logs\\error\\.64e07cc1c07105057b91fea57e92952060adeca4-audit.json",
+    "files": [
+        {
+            "date": 1673617121464,
+            "name": "D:\\SpotChatra\\spotchatbackendnew\\dist\\logs\\error\\2023-01-13.log",
+            "hash": "54ddc798ab33f3c21875f3b4bb46394076837fcca78b4b86520198b81433081f"
+        },
+        {
+            "date": 1673638189812,
+            "name": "D:\\SpotChatra\\spotchatbackendnew\\dist\\logs\\error\\2023-01-14.log",
+            "hash": "aa73f29a43190e45581c894c093548cfc72e67e60ad31a7df7d06fec87cd694a"
+        }
+    ],
+    "hashType": "sha256"
+}

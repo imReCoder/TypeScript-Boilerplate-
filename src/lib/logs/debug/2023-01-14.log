@@ -1,0 +1,146 @@
+2023-01-14 19:29:12 error: UncaughtException: Error: Cannot find module '../controllers/index.controller'
+Require stack:
+- D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\index.route.ts
+- D:\SpotChatra\spotchatbackendnew\src\server.ts
+2023-01-14 19:29:38 info: =================================
+2023-01-14 19:29:38 info: ======= ENV: development =======
+2023-01-14 19:29:38 info: 🚀 App listening on the port 3000
+2023-01-14 19:29:38 info: =================================
+2023-01-14 19:32:40 info: =================================
+2023-01-14 19:32:40 info: ======= ENV: development =======
+2023-01-14 19:32:40 info: 🚀 App listening on the port 3000
+2023-01-14 19:32:40 info: =================================
+2023-01-14 19:33:35 info: =================================
+2023-01-14 19:33:35 info: ======= ENV: development =======
+2023-01-14 19:33:35 info: 🚀 App listening on the port 3000
+2023-01-14 19:33:35 info: =================================
+2023-01-14 19:54:56 info: =================================
+2023-01-14 19:54:56 info: ======= ENV: development =======
+2023-01-14 19:54:56 info: 🚀 App listening on the port 3000
+2023-01-14 19:54:56 info: =================================
+2023-01-14 19:55:59 error: UncaughtException: TypeError: users_controller_1.default is not a constructor
+2023-01-14 19:56:10 error: UncaughtException: TypeError: users_controller_1.default is not a constructor
+2023-01-14 19:56:17 error: UncaughtException: TypeError: users_controller_1.default is not a constructor
+2023-01-14 19:57:07 error: UncaughtException: TypeError: users_controller_1.default is not a constructor
+2023-01-14 19:57:27 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 19:57:36 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 19:58:02 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 19:58:43 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 19:58:47 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 19:58:56 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 19:59:16 error: UncaughtException: TypeError: routes.map is not a function
+2023-01-14 19:59:25 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 19:59:57 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:01:07 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:01:26 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:01:33 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:01:43 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:02:36 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:02:54 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:03:06 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:03:13 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:03:19 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:09:20 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:09:32 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:09:47 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:11:12 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:11:56 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:12:17 error: UncaughtException: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m10[0m:[93m51[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m10[0m export const authMiddleware = (userModel: Model<T></T>) => async (req: RequestWithUser, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                  ~[0m
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m10[0m:[93m52[0m - [91merror[0m[90m TS1138: [0mParameter declaration expected.
+
+[7m10[0m export const authMiddleware = (userModel: Model<T></T>) => async (req: RequestWithUser, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                   ~[0m
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m10[0m:[93m53[0m - [91merror[0m[90m TS1161: [0mUnterminated regular expression literal.
+
+[7m10[0m export const authMiddleware = (userModel: Model<T></T>) => async (req: RequestWithUser, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                    [0m
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m39[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m39[0m };
+[7m  [0m [91m~[0m
+
+2023-01-14 20:12:22 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:12:27 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:13:07 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:13:37 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:13:56 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:14:03 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:14:16 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:14:33 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:14:39 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:14:46 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:14:52 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:15:03 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:15:12 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:15:58 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:17:03 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:17:10 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:17:18 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:17:23 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:17:54 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:18:00 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:19:29 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:19:47 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:20:22 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:20:39 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:25:45 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:30:53 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:30:59 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:32:32 info: =================================
+2023-01-14 20:32:32 info: ======= ENV: development =======
+2023-01-14 20:32:32 info: 🚀 App listening on the port 3000
+2023-01-14 20:32:32 info: =================================
+2023-01-14 20:32:42 info: =================================
+2023-01-14 20:32:42 info: ======= ENV: development =======
+2023-01-14 20:32:42 info: 🚀 App listening on the port 3000
+2023-01-14 20:32:42 info: =================================
+2023-01-14 20:33:33 info: =================================
+2023-01-14 20:33:33 info: ======= ENV: development =======
+2023-01-14 20:33:33 info: 🚀 App listening on the port 3000
+2023-01-14 20:33:33 info: =================================
+2023-01-14 20:33:52 info: =================================
+2023-01-14 20:33:52 info: ======= ENV: development =======
+2023-01-14 20:33:52 info: 🚀 App listening on the port 3000
+2023-01-14 20:33:52 info: =================================
+2023-01-14 20:34:01 info: =================================
+2023-01-14 20:34:01 info: ======= ENV: development =======
+2023-01-14 20:34:01 info: 🚀 App listening on the port 3000
+2023-01-14 20:34:01 info: =================================
+2023-01-14 20:34:06 info: =================================
+2023-01-14 20:34:06 info: ======= ENV: development =======
+2023-01-14 20:34:06 info: 🚀 App listening on the port 3000
+2023-01-14 20:34:06 info: =================================
+2023-01-14 20:34:10 info: =================================
+2023-01-14 20:34:10 info: ======= ENV: development =======
+2023-01-14 20:34:10 info: 🚀 App listening on the port 3000
+2023-01-14 20:34:10 info: =================================
+2023-01-14 20:34:16 info: =================================
+2023-01-14 20:34:16 info: ======= ENV: development =======
+2023-01-14 20:34:16 info: 🚀 App listening on the port 3000
+2023-01-14 20:34:16 info: =================================
+2023-01-14 20:34:24 info: =================================
+2023-01-14 20:34:24 info: ======= ENV: development =======
+2023-01-14 20:34:24 info: 🚀 App listening on the port 3000
+2023-01-14 20:34:24 info: =================================
+2023-01-14 20:34:37 error: UncaughtException: ReferenceError: routes is not defined
+2023-01-14 20:34:54 info: =================================
+2023-01-14 20:34:54 info: ======= ENV: development =======
+2023-01-14 20:34:54 info: 🚀 App listening on the port 3000
+2023-01-14 20:34:54 info: =================================
+2023-01-14 20:34:59 info: =================================
+2023-01-14 20:34:59 info: ======= ENV: development =======
+2023-01-14 20:34:59 info: 🚀 App listening on the port 3000
+2023-01-14 20:34:59 info: =================================
+2023-01-14 20:35:13 info: =================================
+2023-01-14 20:35:13 info: ======= ENV: development =======
+2023-01-14 20:35:13 info: 🚀 App listening on the port 3000
+2023-01-14 20:35:13 info: =================================
+2023-01-14 20:35:26 info: =================================
+2023-01-14 20:35:26 info: ======= ENV: development =======
+2023-01-14 20:35:26 info: 🚀 App listening on the port 3000
+2023-01-14 20:35:26 info: =================================
+2023-01-14 20:38:30 info: SIGINT received. Shutting down gracefully

@@ -1,0 +1,801 @@
+2023-01-14 19:29:12 error: uncaughtException: Cannot find module '../controllers/index.controller'
+Require stack:
+- D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\index.route.ts
+- D:\SpotChatra\spotchatbackendnew\src\server.ts
+Error: Cannot find module '../controllers/index.controller'
+Require stack:
+- D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\index.route.ts
+- D:\SpotChatra\spotchatbackendnew\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\SpotChatra\spotchatbackendnew\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\SpotChatra\spotchatbackendnew\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:885:27)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\index.route.ts:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+2023-01-14 19:29:12 error: UncaughtException: Error: Cannot find module '../controllers/index.controller'
+Require stack:
+- D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\index.route.ts
+- D:\SpotChatra\spotchatbackendnew\src\server.ts
+2023-01-14 19:55:59 error: uncaughtException: users_controller_1.default is not a constructor
+TypeError: users_controller_1.default is not a constructor
+    at new UsersRoute (D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\users.route.ts:21:28)
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+2023-01-14 19:55:59 error: UncaughtException: TypeError: users_controller_1.default is not a constructor
+2023-01-14 19:56:10 error: uncaughtException: users_controller_1.default is not a constructor
+TypeError: users_controller_1.default is not a constructor
+    at new UsersRoute (D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\users.route.ts:24:28)
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+2023-01-14 19:56:10 error: UncaughtException: TypeError: users_controller_1.default is not a constructor
+2023-01-14 19:56:17 error: uncaughtException: users_controller_1.default is not a constructor
+TypeError: users_controller_1.default is not a constructor
+    at new UsersRoute (D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\users.route.ts:24:28)
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+2023-01-14 19:56:17 error: UncaughtException: TypeError: users_controller_1.default is not a constructor
+2023-01-14 19:57:07 error: uncaughtException: users_controller_1.default is not a constructor
+TypeError: users_controller_1.default is not a constructor
+    at new UsersRoute (D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\users.route.ts:44:28)
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+2023-01-14 19:57:07 error: UncaughtException: TypeError: users_controller_1.default is not a constructor
+2023-01-14 19:57:27 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 19:57:27 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 19:57:36 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 19:57:36 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 19:58:02 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 19:58:02 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 19:58:43 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 19:58:43 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 19:58:47 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 19:58:47 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 19:58:56 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 19:58:56 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 19:59:16 error: uncaughtException: routes.map is not a function
+TypeError: routes.map is not a function
+    at addPathToRoutes (D:\SpotChatra\spotchatbackendnew\src\lib\utils\util.ts:48:17)
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\modules\user\routes\users.route.ts:43:31)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+2023-01-14 19:59:16 error: UncaughtException: TypeError: routes.map is not a function
+2023-01-14 19:59:25 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 19:59:25 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 19:59:57 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 19:59:57 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:01:07 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:01:07 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:01:26 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:01:26 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:01:33 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:01:33 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:01:43 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:01:43 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:02:36 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:02:36 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:02:54 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:02:54 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:03:06 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:03:06 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:03:13 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:03:13 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:03:19 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:03:19 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:09:20 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:09:20 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:09:32 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:09:32 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:09:47 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:09:47 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:11:12 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:11:12 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:11:56 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:11:56 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:12:17 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m10[0m:[93m51[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m10[0m export const authMiddleware = (userModel: Model<T></T>) => async (req: RequestWithUser, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                  ~[0m
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m10[0m:[93m52[0m - [91merror[0m[90m TS1138: [0mParameter declaration expected.
+
+[7m10[0m export const authMiddleware = (userModel: Model<T></T>) => async (req: RequestWithUser, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                   ~[0m
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m10[0m:[93m53[0m - [91merror[0m[90m TS1161: [0mUnterminated regular expression literal.
+
+[7m10[0m export const authMiddleware = (userModel: Model<T></T>) => async (req: RequestWithUser, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                    [0m
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m39[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m39[0m };
+[7m  [0m [91m~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m10[0m:[93m51[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m10[0m export const authMiddleware = (userModel: Model<T></T>) => async (req: RequestWithUser, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                  ~[0m
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m10[0m:[93m52[0m - [91merror[0m[90m TS1138: [0mParameter declaration expected.
+
+[7m10[0m export const authMiddleware = (userModel: Model<T></T>) => async (req: RequestWithUser, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                   ~[0m
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m10[0m:[93m53[0m - [91merror[0m[90m TS1161: [0mUnterminated regular expression literal.
+
+[7m10[0m export const authMiddleware = (userModel: Model<T></T>) => async (req: RequestWithUser, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                    [0m
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m39[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m39[0m };
+[7m  [0m [91m~[0m
+
+    at createTSError (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:863:19)
+    at D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+2023-01-14 20:12:17 error: UncaughtException: TSError: ⨯ Unable to compile TypeScript:
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m10[0m:[93m51[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m10[0m export const authMiddleware = (userModel: Model<T></T>) => async (req: RequestWithUser, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                  ~[0m
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m10[0m:[93m52[0m - [91merror[0m[90m TS1138: [0mParameter declaration expected.
+
+[7m10[0m export const authMiddleware = (userModel: Model<T></T>) => async (req: RequestWithUser, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                   ~[0m
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m10[0m:[93m53[0m - [91merror[0m[90m TS1161: [0mUnterminated regular expression literal.
+
+[7m10[0m export const authMiddleware = (userModel: Model<T></T>) => async (req: RequestWithUser, res: Response, next: NextFunction) => {
+[7m  [0m [91m                                                    [0m
+[96msrc/lib/middlewares/auth.middleware.ts[0m:[93m39[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.
+
+[7m39[0m };
+[7m  [0m [91m~[0m
+
+2023-01-14 20:12:22 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:12:22 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:12:27 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:12:27 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:13:07 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:13:07 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:13:37 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:13:37 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:13:56 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:13:56 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:14:03 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:14:03 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:14:16 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:14:16 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:14:33 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:14:33 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:14:39 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:14:39 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:14:46 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:14:46 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:14:52 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:14:52 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:15:03 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:15:03 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:15:12 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:15:12 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:15:58 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:15:58 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:17:03 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:17:03 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:17:10 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:17:10 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:17:18 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:17:18 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:17:23 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:17:23 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:17:54 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:17:54 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:18:00 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:18:00 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:19:29 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:19:29 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:19:47 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:19:47 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:20:22 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:20:22 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:20:39 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:20:39 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:25:45 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:25:45 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:30:53 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:30:53 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:30:59 error: uncaughtException: users_route_1.default is not a constructor
+TypeError: users_route_1.default is not a constructor
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+    at bootstrap (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:95:10)
+2023-01-14 20:30:59 error: UncaughtException: TypeError: users_route_1.default is not a constructor
+2023-01-14 20:34:37 error: uncaughtException: routes is not defined
+ReferenceError: routes is not defined
+    at new App (D:\SpotChatra\spotchatbackendnew\src\app.ts:29:27)
+    at Object.<anonymous> (D:\SpotChatra\spotchatbackendnew\src\server.ts:6:13)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module.m._compile (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at phase4 (D:\SpotChatra\spotchatbackendnew\node_modules\ts-node\src\bin.ts:649:14)
+2023-01-14 20:34:37 error: UncaughtException: ReferenceError: routes is not defined
